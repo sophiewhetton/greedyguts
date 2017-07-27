@@ -1094,18 +1094,18 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/werebored-1-800x567.jpg",
-                "image": "@PROJECT_PATH@/assets/images/werebored-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/inbamboo-800x560.jpg",
+                "image": "@PROJECT_PATH@/assets/images/inbamboo.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/theydreamed-1-800x552.jpg",
-                "image": "@PROJECT_PATH@/assets/images/theydreamed-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/twoonroad-1-800x555.jpg",
+                "image": "@PROJECT_PATH@/assets/images/twoonroad-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1114,8 +1114,28 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/theyleft-800x551.jpg",
-                "image": "@PROJECT_PATH@/assets/images/theyleft.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/onrocks-800x567.jpg",
+                "image": "@PROJECT_PATH@/assets/images/onrocks.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/elephant-800x563.jpg",
+                "image": "@PROJECT_PATH@/assets/images/elephant.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/underarock-800x549.jpg",
+                "image": "@PROJECT_PATH@/assets/images/underarock.jpg",
                 "caption": "Type caption here",
                 "active": false
               }

@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "greedyguts.html",
+    "currentPage": "index.html",
     "versionFirst": "3.8.3",
     "uniqCompNum": 8,
     "versionPublish": "3.12.1",
@@ -129,7 +129,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"theghostrider.html\">The Ghost Rider<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ceramics.html\">Ceramics<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skeletprojects.html\">The Skeleton and The Pheasant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lifedrawings.html\">Life Model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About Me<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">Sketchbooks</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"theghostrider.html\">The Ghost Rider<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greedyguts.html\">Greedy Guts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ceramics.html\">Ceramics<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skeletprojects.html\">The Skeleton and The Pheasant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lifedrawings.html\">Life Model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About Me<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">Sketchbooks</a></li>"
         },
         {
           "_name": "header1",
@@ -263,7 +263,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"theghostrider.html\">The Ghost Rider<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ceramics.html\">Ceramics<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skeletprojects.html\">The Skeleton and The Pheasant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lifedrawings.html\">Life Model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About Me<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">Sketchbooks</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"theghostrider.html\">The Ghost Rider<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greedyguts.html\">Greedy Guts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ceramics.html\">Ceramics<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skeletprojects.html\">The Skeleton and The Pheasant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lifedrawings.html\">Life Model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About Me<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">Sketchbooks</a></li>"
         },
         {
           "_tags": [
@@ -433,7 +433,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"theghostrider.html\">The Ghost Rider<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ceramics.html\">Ceramics<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skeletprojects.html\">The Skeleton and The Pheasant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lifedrawings.html\">Life Model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About Me<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">Sketchbooks</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"theghostrider.html\">The Ghost Rider<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greedyguts.html\">Greedy Guts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ceramics.html\">Ceramics<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skeletprojects.html\">The Skeleton and The Pheasant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lifedrawings.html\">Life Model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About Me<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">Sketchbooks</a></li>"
         },
         {
           "_tags": [
@@ -599,7 +599,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"theghostrider.html\">The Ghost Rider<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ceramics.html\">Ceramics<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skeletprojects.html\">The Skeleton and The Pheasant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lifedrawings.html\">Life Model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About Me<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">Sketchbooks</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"theghostrider.html\">The Ghost Rider<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greedyguts.html\">Greedy Guts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ceramics.html\">Ceramics<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skeletprojects.html\">The Skeleton and The Pheasant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lifedrawings.html\">Life Model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About Me<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">Sketchbooks</a></li>"
         },
         {
           "_inherit": "gallery1",
@@ -759,7 +759,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"theghostrider.html\">The Ghost Rider<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ceramics.html\">Ceramics<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skeletprojects.html\">The Skeleton and The Pheasant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lifedrawings.html\">Life Model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About Me<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">Sketchbooks</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"theghostrider.html\">The Ghost Rider<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greedyguts.html\">Greedy Guts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ceramics.html\">Ceramics<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skeletprojects.html\">The Skeleton and The Pheasant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lifedrawings.html\">Life Model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About Me<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">Sketchbooks</a></li>"
         },
         {
           "_tags": [
@@ -919,7 +919,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"theghostrider.html\">The Ghost Rider<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ceramics.html\">Ceramics<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skeletprojects.html\">The Skeleton and The Pheasant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lifedrawings.html\">Life Model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About Me<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">Sketchbooks</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"theghostrider.html\">The Ghost Rider<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greedyguts.html\">Greedy Guts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ceramics.html\">Ceramics<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skeletprojects.html\">The Skeleton and The Pheasant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lifedrawings.html\">Life Model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About Me<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">Sketchbooks</a></li>"
         },
         {
           "_tags": [
@@ -1077,7 +1077,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"theghostrider.html\">The Ghost Rider<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ceramics.html\">Ceramics<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skeletprojects.html\">The Skeleton and The Pheasant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lifedrawings.html\">Life Model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About Me<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">Sketchbooks</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"theghostrider.html\">The Ghost Rider<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greedyguts.html\">Greedy Guts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ceramics.html\">Ceramics<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"skeletprojects.html\">The Skeleton and The Pheasant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lifedrawings.html\">Life Model</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About Me<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">Sketchbooks</a></li>"
         },
         {
           "_inherit": "gallery1",
@@ -1094,10 +1094,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/werebored-800x567.jpg",
-                "image": "@PROJECT_PATH@/assets/images/werebored.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/werebored-1-800x567.jpg",
+                "image": "@PROJECT_PATH@/assets/images/werebored-1.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
@@ -1107,61 +1107,17 @@
                 "thumb": "@PROJECT_PATH@/assets/images/theydreamed-1-800x552.jpg",
                 "image": "@PROJECT_PATH@/assets/images/theydreamed-1.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/theyleft-800x551.jpg",
+                "image": "@PROJECT_PATH@/assets/images/theyleft.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
             "spacing": "5",
